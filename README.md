@@ -57,4 +57,4 @@ Result:
   "f.i": false
 }
 
-To run the code you just need to have Nodejs install in your local computer and run the following command in the terminal: node ./index.js
+To run the code you just need to have Nodejs installed in your local computer and run the following command in the terminal: node ./index.js
