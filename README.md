@@ -3,7 +3,7 @@ Coding Challenge!
 When I saw the challenge I started thinking right away in the logic I needed to do to complete it.
 
 I realized that I needed to a for loop inside another foor loop so I could read and save the child of each object if it was the case.
-That said the structure started with a for loop, then a condition to check if the object had a child and then another for loop to read and save the value of the childs.
+That said the structure started with a for loop, then a condition to check if the object had a child and then another for loop to read and save the value of each child.
 
 When I started writing the code I realized that I didn't really know the sintaxe of what I needed to implement so I started looking in the internet how I could write it. Probably this is why I took around 5h (in different days, for example 2h + 2h + 1h ) to complete this challenge.
 
