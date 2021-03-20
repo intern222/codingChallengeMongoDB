@@ -58,3 +58,4 @@ Result:
 }
 
 To run the code you just need to have Nodejs installed in your local computer and run the following command in the terminal: node ./index.js
+The code accepts a json file named "file.json" and will create a new file with the result named "newFile.json", after you run the command. 
